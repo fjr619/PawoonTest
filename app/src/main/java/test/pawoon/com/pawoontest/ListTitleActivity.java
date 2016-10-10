@@ -24,6 +24,7 @@ public class ListTitleActivity extends ListActivity {
                     android.R.layout.simple_list_item_1, listTitle);
 
             setListAdapter(adapter);
+            //
         }
 
     }
